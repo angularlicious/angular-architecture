@@ -73,7 +73,7 @@
     "global": "^4.4.0",
     "googleapis": "40.0.0",
     "hammerjs": "2.0.8",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "moment": "2.24.0",
     "ngx-loggly-logger": "7.0.3",
     "perfect-scrollbar": "1.1.0",
